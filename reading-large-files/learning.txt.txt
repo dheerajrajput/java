@@ -1,0 +1,2 @@
+-- i am trying to read large files using a java, memory allocated to java is less then the file size. so lets see how it goes.
+-- Currently i am getting java heap space error, lets see how to resolve that.
